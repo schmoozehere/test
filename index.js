@@ -1,10 +1,5 @@
 
-// Zeltux
 
-// Created By Matt
-// In collaboration with Azono & amaan1028
-
-// Version 1.0.11
 
 const Discord = require("discord.js");
 const fs = require("fs");

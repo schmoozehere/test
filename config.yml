@@ -5,8 +5,8 @@ setup:
   version: "1.0.11" # DO NOT CHANGE
 
   # When setting up your bot, enter the bots token and your server ID below
-  token: "bot_token"
-  serverID: "server_id"
+  token: "ODY4MDQ4NzAzODE3MTUwNDY1.G7NBZK.pK9S8JTAGyqgBmp-xPq1H7-kduoBCAb3jIKX88"
+  serverID: "924927293263052860"
 
 
 ##### SETTINGS #####
